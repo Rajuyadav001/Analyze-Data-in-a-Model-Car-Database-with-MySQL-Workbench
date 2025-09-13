@@ -1,5 +1,4 @@
 # Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench
-# Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench
 My analysis process for the Coursera project "Analyze Data in a Model Car Database with MySQL Workbench". 
 
 In this project, I will assist in the analysis of data in a relational database as an entry-level data analyst at the Mint Classics Company in order to support business choices regarding inventory that result in the closure of a storage facility.
